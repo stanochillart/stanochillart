@@ -31,7 +31,7 @@ They are simply apps I built the way I prefer to use them.
 
 | App | Status | Description |
 |-----|--------|-------------|
-| **[Nimbus](#)** | Available | A pocket observatory for the restless sky. Combines current weather, precipitation radar, hourly forecast, air quality and weather outlook in one clean place. |
+| **[Nimbus](https://github.com/stanochillart/Nimbus-Releases)** | Available | A pocket observatory for the restless sky. Combines current weather, precipitation radar, hourly forecast, air quality and weather outlook in one clean place. |
 
 
 ---
@@ -44,7 +44,7 @@ You can find more on my website:
 
 ---
 
-If any of the apps work well for you, I’d be glad to hear it.  
+If any of the apps work well for you, I'd be glad to hear it.  
 If not, no problem – I make them mainly for myself.
 
 ---
@@ -83,7 +83,7 @@ Sú to jednoducho appky, ktoré som si spravil tak, ako mi vyhovujú.
 
 | Aplikácia | Stav | Popis |
 |-----------|------|-------|
-| **[Nimbus](#)** | Dostupné | Vreckové observatórium pre nepokojnú oblohu. Spája aktuálne počasie, radar zrážok, hodinový vývoj, kvalitu ovzdušia a predpoveď na jednom čistom mieste. |
+| **[Nimbus](https://github.com/stanochillart/Nimbus-Releases)** | Dostupné | Vreckové observatórium pre nepokojnú oblohu. Spája aktuálne počasie, radar zrážok, hodinový vývoj, kvalitu ovzdušia a predpoveď na jednom čistom mieste. |
 
 
 ---
