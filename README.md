@@ -31,8 +31,8 @@ They are simply apps I built the way I prefer to use them.
 
 | App | Status | Description |
 |-----|--------|-------------|
-| **[Nimbus](https://github.com/stanochillart/Nimbus-Releases)** | Available | A pocket observatory for the restless sky. Combines current weather, precipitation radar, hourly forecast, air qualit[...]
-| **SystemOverview** | Available | An onboard observatory for your Android. Your phone is constantly doing things. Most of the time you don't see it.
+| **[Nimbus](https://github.com/stanochillart/Nimbus-Releases)** | Available | A pocket observatory for the restless sky. Combines current weather, precipitation radar, hourly forecast, air quality and weather outlook in one clean place. |
+| **[SystemOverview](https://github.com/stanochillart/stanochillart)** | Available | An onboard observatory for your Android. Your phone is constantly doing things. Most of the time you don't see it.
 
 
 ---
@@ -84,8 +84,8 @@ Sú to jednoducho appky, ktoré som si spravil tak, ako mi vyhovujú.
 
 | Aplikácia | Stav | Popis |
 |-----------|------|-------|
-| **[Nimbus](https://github.com/stanochillart/Nimbus-Releases)** | Dostupné | Vreckové observatórium pre nepokojnú oblohu. Spája aktuálne počasie, radar zrážok, hodinový vývoj, kvalitu [...]
-| **SystemOverview** | Dostupné | Palubné observatórium tvojho Androidu. Tvoj telefón neustále niečo robí. Väčšinu času to nevidíš.
+| **[Nimbus](https://github.com/stanochillart/Nimbus-Releases)** | Dostupné | Vreckové observatórium pre nepokojnú oblohu. Spája aktuálne počasie, radar zrážok, hodinový vývoj, kvalitu ovzdušia a predpoveď na jednom čistom mieste. |
+| **[SystemOverview](https://github.com/stanochillart/stanochillart)** | Dostupné | Palubné observatórium tvojho Androidu. Tvoj telefón neustále niečo robí. Väčšinu času to nevidíš.
 
 
 ---
