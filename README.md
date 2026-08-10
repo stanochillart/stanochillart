@@ -31,9 +31,9 @@ They are simply apps I built the way I prefer to use them.
 
 | App | Status | Description |
 |-----|--------|-------------|
-| **[Nimbus](https://github.com/stanochillart/Nimbus-Releases)** | Available | A pocket observatory for the restless sky. Combines current weather, precipitation radar, hourly forecast, air quality and weather outlook in one clean place. |
-| **[SystemOverview](https://github.com/stanochillart/SystemOverview-Releases)** | Available | An onboard observatory for your Android. Your phone is constantly doing things. Most of the time you don't see it.
-
+| **[Nimbus](https://github.com/stanochillart/Nimbus-Releases)** | Available | A pocket observatory for the restless sky. Combines current weather, precipitation radar, hourly forecast, air qualit[...]
+| **[SystemOverview](https://github.com/stanochillart/SystemOverview-Releases)** | Available | An onboard observatory for your Android. Your phone is constantly doing things. Most of the time you [...]
+| **[2033AerialAssault](https://github.com/stanochillart/2033AerialAssault-Releases)** | Available | Pilot Arriel. Shoot. Upgrade. Save the Moon from the Voidspawn. Classic space shooter reborn. |
 
 ---
 
@@ -84,9 +84,9 @@ Sú to jednoducho appky, ktoré som si spravil tak, ako mi vyhovujú.
 
 | Aplikácia | Stav | Popis |
 |-----------|------|-------|
-| **[Nimbus](https://github.com/stanochillart/Nimbus-Releases)** | Dostupné | Vreckové observatórium pre nepokojnú oblohu. Spája aktuálne počasie, radar zrážok, hodinový vývoj, kvalitu ovzdušia a predpoveď na jednom čistom mieste. |
-| **[SystemOverview](https://github.com/stanochillart/SystemOverview-Releases)** | Dostupné | Palubné observatórium tvojho Androidu. Tvoj telefón neustále niečo robí. Väčšinu času to nevidíš.
-
+| **[Nimbus](https://github.com/stanochillart/Nimbus-Releases)** | Dostupné | Vreckové observatórium pre nepokojnú oblohu. Spája aktuálne počasie, radar zrážok, hodinový vývoj, kvalitu [...]
+| **[SystemOverview](https://github.com/stanochillart/SystemOverview-Releases)** | Dostupné | Palubné observatórium tvojho Androidu. Tvoj telefón neustále niečo robí. Väčšinu času to ne[...]
+| **[2033AerialAssault](https://github.com/stanochillart/2033AerialAssault-Releases)** | Dostupné | Pilot Arriel. Strieľaj. Vylepšuj. Zachráň Mesiac pred Voidspawn. Klasická vesmírna strieľačka znovuzrodená. |
 
 ---
 
