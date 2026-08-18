@@ -32,9 +32,12 @@ They are simply apps I built the way I prefer to use them.
 | App | Status | Description |
 |-----|--------|-------------|
 | **[Nimbus](https://github.com/stanochillart/Nimbus-Releases)** | Available | A pocket observatory for the restless sky. Combines current weather, precipitation radar, hourly forecast, air quality and weather outlook in one clean place. |
-| **[SystemOverview](https://github.com/stanochillart/SystemOverview-Releases)** | Available | An onboard observatory for your Android. Your phone is constantly doing things. Most of the time you don't have to worry about it. But sometimes you might want to know what's really happening. |
+| **[SystemOverview](https://github.com/stanochillart/SystemOverview-Releases)** | Available | An onboard observatory for your Android. Your phone is constantly doing things. Most of the time you don't see it. Now you can. |
 | **[2033AerialAssault](https://github.com/stanochillart/2033AerialAssault-Releases)** | Available | Pilot Arriel. Shoot. Upgrade. Save the Moon from the Voidspawn. Classic space shooter reborn. |
 | **[CorePlayer](https://github.com/stanochillart/CorePlayer-releases)** | Available | CorePlayer is a simple yet uncompromising music player for Android. It works exclusively with the music you already have in your pocket, on internal storage or an SD card. |
+| **[CoreCamera](https://github.com/stanochillart/CoreCamera-Releases)** | Available | Transforms a photo from your phone into an image in the style of a classic Polaroid. |
+| **[CoreWeb](https://github.com/stanochillart/CoreWeb-Releases)** | Available | Web pages today often can't be opened without a cookie banner, newsletter, popup or full-screen overlay popping up. |
+| **[EchoRadio](https://github.com/stanochillart/EchoRadio-Releases)** | Available | Several thousand radio stations can be thousands of kilometers away. |
 
 ---
 
@@ -86,9 +89,12 @@ Sú to jednoducho appky, ktoré som si spravil tak, ako mi vyhovujú.
 | Aplikácia | Stav | Popis |
 |-----------|------|-------|
 | **[Nimbus](https://github.com/stanochillart/Nimbus-Releases)** | Dostupné | Vreckové observatórium pre nepokojnú oblohu. Spája aktuálne počasie, radar zrážok, hodinový vývoj, kvalitu vzduchu a výhľad počasia na jednom čistom mieste. |
-| **[SystemOverview](https://github.com/stanochillart/SystemOverview-Releases)** | Dostupné | Palubné observatórium tvojho Androidu. Tvoj telefón neustále niečo robí. Väčšinu času to nemusíš riešiť. Ale niekedy sa možno chceš dozvedieť, čo sa naozaj deje. |
+| **[SystemOverview](https://github.com/stanochillart/SystemOverview-Releases)** | Dostupné | Palubné observatórium tvojho Androidu. Tvoj telefón neustále niečo robí. Väčšinu času to nevidíš. Teraz môžeš. |
 | **[2033AerialAssault](https://github.com/stanochillart/2033AerialAssault-Releases)** | Dostupné | Pilot Arriel. Strieľaj. Vylepšuj. Zachráň Mesiac pred Voidspawn. Klasická vesmírna strieľačka znovuzrodená. |
-| **[CorePlayer](https://github.com/stanochillart/CorePlayer-releases)** | Dostupné | CorePlayer je jednoduchý a nekompromisný hudlobný prehrávač pre Android. Pracuje výlučne s hudbou, ktorú máš už v vrecku, na internom úložisku alebo na SD karte. |
+| **[CorePlayer](https://github.com/stanochillart/CorePlayer-releases)** | Dostupné | CorePlayer je jednoduchý a nekompromisný hudlobný prehrávač pre Android. Pracuje výlučne s hudbou, ktorú už máš v vrecku, na internom úložisku alebo na SD karte. |
+| **[CoreCamera](https://github.com/stanochillart/CoreCamera-Releases)** | Dostupné | Mení fotografiu z telefónu na obraz v štýle klasického Polaroidu. |
+| **[CoreWeb](https://github.com/stanochillart/CoreWeb-Releases)** | Dostupné | Webové stránky dnes často neotvoríš bez toho, aby na teba vyskočil cookie banner, newsletter, popup alebo prekrytie celej obrazovky. |
+| **[EchoRadio](https://github.com/stanochillart/EchoRadio-Releases)** | Dostupné | Niekoľko tisíc rádiových staníc môže byť vzdialených tisíce kilometrov. |
 
 ---
 
