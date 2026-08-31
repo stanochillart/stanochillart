@@ -23,11 +23,9 @@ Instruments for the phone. No account. No storefront noise.
 
 ---
 
-## Games
+## Insert coin
 
-When the desk has had enough. A few minutes out of the day without leaving the chair.
-
-A last pilot over the Moon. A miner who only wanted to get home and sleep.
+Arcade. A few minutes off the desk. A last pilot over the Moon. A miner who only wanted to get home and sleep.
 
 | Game | | |
 |---|---|---|
