@@ -26,7 +26,7 @@ Keď stôl stačil. Pár minút prec od dňa, bez toho aby si vstal.
 Posledný pilot nad Mesiacom. Havíř, ktorý chcel len prísť domov a spať.
 
 - **[2033 Aerial Assault](https://stanochillart.github.io/2033AerialAssault/sk/)** — Posledný pilot. Posledná obrana. · [Stiahnuť](https://github.com/stanochillart/2033AerialAssault/releases/download/v1.0/2033AerialAssault-1.0.apk)
-- **[Ostrava 90's Brawl](https://stanochillart.github.io/Ostrava90sBrawl/cs/)** — Toňo chce spať. Mesto mu v tom bráni. · [Stiahnuť](https://github.com/stanochillart/Ostrava90sBrawl/releases/download/v1.0/Ostrava90sBrawl-1.0.apk)
+- **[Ostrava 90's Brawl](https://stanochillart.github.io/Ostrava90sBrawl/cs/)** — Toňo chce spať. Mesto mu v tom bráni. · [Stiahnuť](https://github.com/stanochillart/Ostrava90sBrawl/releases/download/v1.1/Ostrava90sBrawl-1.1.apk)
 
 ---
 
