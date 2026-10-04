@@ -20,6 +20,7 @@ Instruments for the phone. No account. No storefront noise.
 | **[CoreSystem](https://stanochillart.github.io/CoreSystem/)** | An onboard observatory for your Android. | [Download](https://github.com/stanochillart/CoreSystem/releases/download/v1.3.0/CoreSystem-1.3.0.apk) |
 | **[CoreWeather](https://stanochillart.github.io/CoreWeather/)** | A pocket observatory for a restless sky. | [Download](https://github.com/stanochillart/CoreWeather/releases/download/v1.5/CoreWeather-1.5.apk) |
 | **[CoreWeb](https://stanochillart.github.io/CoreWeb/)** | The web without the smog. | [Download](https://github.com/stanochillart/CoreWeb/releases/download/v1.1/CoreWeb-1.1.apk) |
+| **[IoTHygieneCheck](https://stanochillart.github.io/IoTHygieneCheck/)** | A list of addresses and services on the network you are already on. It stays on the phone. | [Download](https://github.com/stanochillart/IoTHygieneCheck/releases/download/v1.0/IoTHygieneCheck-1.0.apk) |
 
 ---
 

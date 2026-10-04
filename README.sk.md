@@ -16,6 +16,7 @@ Prístroje pre telefón. Bez účtu. Bez hluku obchodu.
 - **[CoreSystem](https://stanochillart.github.io/CoreSystem/sk/)** — Palubné observatórium tvojho Androidu. · [Stiahnuť](https://github.com/stanochillart/CoreSystem/releases/download/v1.3.0/CoreSystem-1.3.0.apk)
 - **[CoreWeather](https://stanochillart.github.io/CoreWeather/sk/)** — Vreckové observatórium pre nepokojnú oblohu. · [Stiahnuť](https://github.com/stanochillart/CoreWeather/releases/download/v1.5/CoreWeather-1.5.apk)
 - **[CoreWeb](https://stanochillart.github.io/CoreWeb/sk/)** — Web bez zbytočného smogu. · [Stiahnuť](https://github.com/stanochillart/CoreWeb/releases/download/v1.1/CoreWeb-1.1.apk)
+- **[IoTHygieneCheck](https://stanochillart.github.io/IoTHygieneCheck/sk/)** · Súpis adries a služieb v sieti, do ktorej ste už pripojení. Ostáva v telefóne. · [Stiahnuť](https://github.com/stanochillart/IoTHygieneCheck/releases/download/v1.0/IoTHygieneCheck-1.0.apk)
 
 ---
 
