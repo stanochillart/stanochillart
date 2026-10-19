@@ -31,7 +31,7 @@ Arcade. A few minutes off the desk. A last pilot over the Moon. A miner who only
 | Game | | |
 |---|---|---|
 | **[2033 Aerial Assault](https://stanochillart.github.io/2033AerialAssault/)** | Last pilot. Last line. | [Download](https://github.com/stanochillart/2033AerialAssault/releases/download/v1.0/2033AerialAssault-1.0.apk) |
-| **[Ostrava 90's Brawl](https://stanochillart.github.io/Ostrava90sBrawl/)** | Toňo wants to sleep. The city disagrees. | [Download](https://github.com/stanochillart/Ostrava90sBrawl/releases/download/v1.1/Ostrava90sBrawl-1.1.apk) |
+| **[Ostrava 90's Brawl](https://stanochillart.github.io/Ostrava90sBrawl/)** | Toňo wants to sleep. The city disagrees. | [Download](https://github.com/stanochillart/Ostrava90sBrawl/releases/download/v1.2/Ostrava90sBrawl-1.2.apk) |
 
 ---
 
