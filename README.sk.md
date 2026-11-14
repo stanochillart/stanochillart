@@ -14,7 +14,7 @@ Prístroje pre telefón. Bez účtu. Bez hluku obchodu.
 - **[CorePlayer](https://stanochillart.github.io/CorePlayer/sk/)** — Tvoja hudba. Tvoje zariadenie. Žiadny cloud. · [Stiahnuť](https://github.com/stanochillart/CorePlayer/releases/download/v1.4/CorePlayer-1.4.apk)
 - **[CoreRadio](https://stanochillart.github.io/CoreRadio/sk/)** — Rádio z celého sveta. V tvojom telefóne. · [Stiahnuť](https://github.com/stanochillart/CoreRadio/releases/download/v1.2/CoreRadio-1.2.apk)
 - **[CoreSystem](https://stanochillart.github.io/CoreSystem/sk/)** — Palubné observatórium tvojho Androidu. · [Stiahnuť](https://github.com/stanochillart/CoreSystem/releases/download/v1.3.0/CoreSystem-1.3.0.apk)
-- **[CoreWeather](https://stanochillart.github.io/CoreWeather/sk/)** — Vreckové observatórium pre nepokojnú oblohu. · [Stiahnuť](https://github.com/stanochillart/CoreWeather/releases/download/v1.5/CoreWeather-1.5.apk)
+- **[CoreWeather](https://stanochillart.github.io/CoreWeather/sk/)** — Vreckové observatórium pre nepokojnú oblohu. · [Stiahnuť](https://github.com/stanochillart/CoreWeather/releases/download/v1.6/CoreWeather-1.6.apk)
 - **[CoreWeb](https://stanochillart.github.io/CoreWeb/sk/)** — Web bez zbytočného smogu. · [Stiahnuť](https://github.com/stanochillart/CoreWeb/releases/download/v1.1/CoreWeb-1.1.apk)
 - **[CoreBooks](https://stanochillart.github.io/CoreBooks/sk/)** · Otvor knihu. Nech prehovorí. · [Stiahnuť](https://github.com/stanochillart/CoreBooks/releases/download/v1.1/CoreBooks-1.1.apk)
 - **[IoTHygieneCheck](https://stanochillart.github.io/IoTHygieneCheck/sk/)** · Súpis adries a služieb v sieti, do ktorej ste už pripojení. Ostáva v telefóne. · [Stiahnuť](https://github.com/stanochillart/IoTHygieneCheck/releases/download/v1.0/IoTHygieneCheck-1.0.apk)
