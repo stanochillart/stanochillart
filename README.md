@@ -27,12 +27,13 @@ Instruments for the phone. No account. No storefront noise.
 
 ## Insert coin
 
-Arcade. A few minutes off the desk. A last pilot over the Moon. A miner who only wanted to get home and sleep.
+Arcade. A few minutes off the desk. A last pilot over the Moon. A miner who only wanted to get home and sleep. A walk through Ostrava, house by house.
 
 | Game | | |
 |---|---|---|
 | **[2033 Aerial Assault](https://stanochillart.github.io/2033AerialAssault/)** | Last pilot. Last line. | [Download](https://github.com/stanochillart/2033AerialAssault/releases/download/v1.0/2033AerialAssault-1.0.apk) |
 | **[Ostrava 90's Brawl](https://stanochillart.github.io/Ostrava90sBrawl/)** | Toňo wants to sleep. The city disagrees. | [Download](https://github.com/stanochillart/Ostrava90sBrawl/releases/download/v1.2/Ostrava90sBrawl-1.2.apk) |
+| **[OstravaSkyline](https://stanochillart.github.io/OstravaSkyline/)** | A walking game through Ostrava, full of riddles. | [Download](https://github.com/stanochillart/OstravaSkyline/releases/download/v1.0/OstravaSkyline-1.0.apk) |
 
 ---
 
